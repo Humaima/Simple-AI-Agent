@@ -37,7 +37,6 @@ A simple AI chatbot agent built using Streamlit, Groq API, and DuckDuckGo Search
 - ```bash
   ├── app.py            # Main application script
   ├── requirements.txt  # List of dependencies
-  ├── .env.example      # Example environment variables file
   ├── README.md         # Project documentation
   ├── .gitignore        # Ignoring unnecessary files
   └── LICENSE           # Project license file
